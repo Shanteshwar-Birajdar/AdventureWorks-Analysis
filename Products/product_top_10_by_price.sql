@@ -6,7 +6,7 @@ limit 10
 
 /* 
 \\\ Result ///
-Name 				            ListPrice
+Name 				      ListPrice
 Road-150 Red, 52	      3578.27
 Road-150 Red, 44	      3578.27
 Road-150 Red, 62	      3578.27
